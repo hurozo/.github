@@ -2,6 +2,10 @@
 
 Welcome to Hurozo, an agentic platform that lets you visually build, share and run intelligent workflows. Build agents from reusable components, collaborate with others and expose your work through APIs.
 
+### Environments
+[![Development](https://img.shields.io/badge/Dev-staging.hurozo.com-informational)](https://staging.hurozo.com/)
+[![Production](https://img.shields.io/badge/Prod-app.hurozo.com-success)](https://app.hurozo.com/)
+
 ## Getting Started
 
 1. **Sign up** – Enter your email address on the sign‑in screen. You will receive a magic link; click it and you are in. No password or account creation is required.
