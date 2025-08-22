@@ -103,6 +103,9 @@ Use the **Secrets** panel to securely store API keys and other credentials. Defi
 
 Remote nodes let you extend Hurozo with custom logic hosted outside the platform.
 You'll find an example remote node in the 'nodes' repository.
+
+- 📦 **GitHub Repo** → https://github.com/hurozo/nodes
+
 After registration, the node becomes available in the component menu. Drag it into workflows and provide the necessary inputs.
 When executed, Hurozo sends the input payload to your service, waits for the response and passes the results downstream.
 
